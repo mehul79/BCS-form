@@ -1,0 +1,13 @@
+.quillforms-renderer-core {
+    height: 100% !important;
+    min-height: unset !important;
+    background-color: transparent !important;
+  }
+  
+  .quillforms-renderer-core .quillforms-renderer-wrapper {
+    height: 100% !important;
+  }
+  
+  .quillforms-renderer-core .quillforms-renderer-wrapper .quillforms-renderer-inner-wrapper {
+    height: 100% !important;
+  }
